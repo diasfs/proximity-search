@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-npm install proximity-search
+npm install @diasfs/proximity-search
 ```
 
 ## Usage
