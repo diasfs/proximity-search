@@ -1,0 +1,28 @@
+{
+  "name": "@diasfs/proximity-search",
+  "version": "1.0.0",
+  "description": "Search points of interest in a given location",
+  "type": "module",
+  "main": "src/proximity-search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diasfs/proximity-search.git"
+  },
+  "keywords": [
+    "osm",
+    "poi",
+    "geohash"
+  ],
+  "author": "Fábio Dias <binho85@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diasfs/proximity-search/issues"
+  },
+  "homepage": "https://github.com/diasfs/proximity-search#readme",
+  "dependencies": {
+    "ngeohash": "^0.6.3"
+  }
+}
